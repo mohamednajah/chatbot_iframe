@@ -3,7 +3,6 @@ class ActionProvider {
       this.createChatBotMessage = createChatBotMessage;
       this.setState = setStateFunc;
     }
-  
     handleQuery = async (query) => {
       try {
         console.log("Sending query to the server:", query);
