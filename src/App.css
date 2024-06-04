@@ -21,11 +21,8 @@
   max-width: 1000px; /* Adjust as needed */
   padding: 20px;
   box-sizing: border-box;
-  height: 180px; /* Reduce height to fit within the iframe */
-  overflow: hidden; /* Ensure any overflow is hidden */
 }
 
 .chatbot-container .react-chatbot-kit-chat-container {
   width: 100%; /* Ensure the chatbot fits within the container */
-  height: 100%; /* Make sure the chatbot uses the full height */
 }
