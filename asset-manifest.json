@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatbot_iframe/static/css/main.75e99950.css",
+    "main.js": "/chatbot_iframe/static/js/main.096a96b6.js",
+    "index.html": "/chatbot_iframe/index.html",
+    "main.75e99950.css.map": "/chatbot_iframe/static/css/main.75e99950.css.map",
+    "main.096a96b6.js.map": "/chatbot_iframe/static/js/main.096a96b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e99950.css",
+    "static/js/main.096a96b6.js"
+  ]
+}
